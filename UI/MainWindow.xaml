@@ -5,8 +5,67 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Height="600" 
+        Width="920"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True">
+
+    <Border Background="#4d0026" CornerRadius="35">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"></RowDefinition> 
+                <RowDefinition></RowDefinition> 
+            </Grid.RowDefinitions>
+
+
+            <TextBlock Text="Elysian"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Left"
+                       Foreground="White"
+                       FontSize="22"
+                       Margin="20,0,0,0"/>
+
+
+            <StackPanel Grid.Row="1">
+                <RadioButton
+                    Content="Home"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="14"
+                    Style="{StaticResource MenuButtonStyle}"
+                    />
+
+
+                <RadioButton
+                    Content="Discovery"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="14"
+                    Style="{StaticResource MenuButtonStyle}"
+                    />
+
+                <RadioButton
+                    Content="Featured"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="14"
+                    Style="{StaticResource MenuButtonStyle}"
+                    />
+                
+            </StackPanel>
+            
+            
+        </Grid>
+
         
-    </Grid>
+        
+        
+    </Border>
 </Window>
