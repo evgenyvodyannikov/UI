@@ -16,3 +16,7 @@ C:\Users\vodya\Downloads\UI\UI\obj\Debug\UI.csproj.GenerateResource.cache
 C:\Users\vodya\Downloads\UI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
 C:\Users\vodya\Downloads\UI\UI\obj\Debug\UI.exe
 C:\Users\vodya\Downloads\UI\UI\obj\Debug\UI.pdb
+C:\Users\vodya\Downloads\UI\UI\obj\Debug\Theme\TextBoxStyle.baml
+C:\Users\vodya\Downloads\UI\UI\obj\Debug\MVVM\View\HoveView.g.cs
+C:\Users\vodya\Downloads\UI\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vodya\Downloads\UI\UI\obj\Debug\MVVM\View\HoveView.baml

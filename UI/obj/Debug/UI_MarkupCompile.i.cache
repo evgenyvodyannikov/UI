@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\vodya\Downloads\UI\UI\App.xaml
-2606218102
+4-445723412
 
-81232092672
+11-1184850820
 13-38814620
-MainWindow.xaml;Theme\MenuButtonStyle.xaml;
+MainWindow.xaml;MVVM\View\HoveView.xaml;Theme\MenuButtonStyle.xaml;Theme\TextBoxStyle.xaml;
 
 True
 
